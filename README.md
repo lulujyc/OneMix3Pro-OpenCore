@@ -1,6 +1,8 @@
 # OneMix3Pro-OpenCore
 Install macOS on your 10th gen OneMix 3 minibooks.
 
+EOL Notice: I don't have the hardware anymore so the support for this EFI configuration is ended until someone forks it.
+
 ## Compatibility
 
 - **OneMix 3 Pro Koi/ Platinum/ Black with i7 10510Y**: The main model this configuration was developed with and for.
